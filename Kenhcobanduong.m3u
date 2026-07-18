@@ -1,43 +1,43 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml,https://github.com/iptv-pro/iptv-pro.github.io/raw/refs/heads/main/epg/epg.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://epg.catvod.com/epg.xml,http://www.teleguide.info/download/new3/xmltv.xml.gz,http://gabbarit.drm-play.com/epg_1.xml.gz,http://epg.one/epg2.xml,https://epg.pw/xmltv/epg_AU.xml,https://epg.pw/xmltv/epg_ID.xml,https://epg.pw/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_MY.xml,https://epg.pw/xmltv/epg_FR.xml"
 #PLAYLIST:#PLAYLIST:Coban
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="KÊNHKênh VTVAM" group-logo="https://i.imgur.com/NB53sZL.png" tvg-logo="https://i.imgur.com/EHjW7mC.png",VTV1 HD
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" group-logo="https://i.imgur.com/NB53sZL.png" tvg-logo="https://i.imgur.com/EHjW7mC.png",VTV1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="KÊNHKênh VTVAM" tvg-logo="https://i.imgur.com/urCWISb.png",VTV2 HD
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/urCWISb.png",VTV2 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/v2abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="KÊNHKênh VTVAM" tvg-logo="https://i.imgur.com/yybRDKn.png",VTV3 HD
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/yybRDKn.png",VTV3 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="KÊNHKênh VTVAM" tvg-logo="https://i.imgur.com/G6uVWLi.png",VTV4 HD
+#EXTINF:-1 tvg-id="vtv4hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/G6uVWLi.png",VTV4 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="KÊNH THIẾT YẾU" group-logo="https://i.imgur.com/hGKz43E.png" tvg-logo="https://i.imgur.com/p9bWxfm.png",VIETNAM TODAY HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/vietnamtoday/live-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="KÊNHKênh VTVAM" tvg-logo="https://i.imgur.com/Rzi9LxP.png",VTV5 HD
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/Rzi9LxP.png",VTV5 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="KÊNHKênh VTVAM" tvg-logo="https://i.imgur.com/xiuHjEQ.png",VTV5 TÂY NAM BỘ HD
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/xiuHjEQ.png",VTV5 TÂY NAM BỘ HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="KÊNHKênh VTVAM" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 TÂY NGUYÊN HD
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 TÂY NGUYÊN HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="KÊNHKênh VTVAM" tvg-logo="https://i.imgur.com/WYu3c0U.png",VTV6 HD
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/WYu3c0U.png",VTV6 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="KÊNHKênh VTVAM" tvg-logo="https://i.imgur.com/bphN2eA.png",VTV7 HD
+#EXTINF:-1 tvg-id="vtv7hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/bphN2eA.png",VTV7 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/v7abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="KÊNHKênh VTVAM" tvg-logo="https://i.imgur.com/tjA1fU8.png",VTV8 HD
+#EXTINF:-1 tvg-id="vtv8hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/tjA1fU8.png",VTV8 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/vtv8/live-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="KÊNHKênh VTVAM" tvg-logo="https://i.imgur.com/rUeimhI.png",VTV9 HD
+#EXTINF:-1 tvg-id="vtv9hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/rUeimhI.png",VTV9 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv10hd" group-title="KÊNHKênh VTVAM" tvg-logo="https://i.imgur.com/n1VZWPh.png",VTV10 HD
+#EXTINF:-1 tvg-id="vtv10hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/n1VZWPh.png",VTV10 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/index.m3u8
 
