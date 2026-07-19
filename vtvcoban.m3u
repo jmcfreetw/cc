@@ -41,9 +41,9 @@ https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/index.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/index.m3u8
 
-#EXTINF:-1 group-title="Quảng Ngãi" tvg-id="456841" tvg-logo="https://online.xemtv.net/image/QNgTV1.png",Quảng Ngãi TV1
+#EXTINF:-1 group-title="Quảng Ngãi" tvg-id="456841" tvg-logo="https://online.xemtv.net/image/QNgTV1.png",Th Quang Ngai
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
-#EXTINF:-1 group-title="Quảng Ngãi" tvg-id="456841" tvg-logo="https://online.xemtv.net/image/QNgTV2.png",Quảng Ngãi TV2
+#EXTINF:-1 group-title="Quảng Ngãi" tvg-id="456841" tvg-logo="https://online.xemtv.net/image/QNgTV2.png",Th Quang Ngai
 https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_2.m3u8
 #EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
 
