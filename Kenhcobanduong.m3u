@@ -188,3 +188,52 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 
 #EXTINF:-1 tvg-id="tuyenquang" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/3muPHI0.png",TTV - TH Tuyên Quang
 https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
+
+#EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/i9ObQQp.png", Outdoor Channel HD
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=216
+
+#EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/2gft8m9.png", Channel News Asia
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=112
+
+#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/jTgz67A.png", Asian Food Network HD
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=215
+
+#EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/IeAWbux.png", HGTV
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=99
+
+#EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/OHB6a5p.png", KBS World
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=213
+
+#EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/21DRdFZ.png", DW - Deutsche Welle
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=109
+
+#EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/bGHZKTN.png", NHK World Japan
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=106
+
+#EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/v95rIrf.png", France 24
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=96
+
+#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/I708xTm.png", TV5 Monde
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9852
+
+#EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/qq1V9MT.png", CNBC
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9855
+
+#EXTINF:-1 tvg-id="history" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/rxTJlsQ.png", History HD
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9856
+
+#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/hudL24j.png", Kix HD
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9901
+
+#EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/jIiUh6a.png", Arirang
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=111
+
+#EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/zbFOicW.png", Da Vinci Asia Vietnam
+https://liveh12.vtvprime.vn/hls/DAVINVY/index.m3u8
+
+#EXTINF:-1 tvg-id="youtv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/o3jrTE1.png", YouTV
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=31
+
+#EXTINF:-1 tvg-id="hitv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/dVyTJfv.png", HiTV
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=32
+
