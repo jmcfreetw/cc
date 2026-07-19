@@ -45,8 +45,6 @@ https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/index.m3u8
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
 #EXTINF:-1 group-title="Quảng Ngãi" tvg-id="456841" tvg-logo="https://online.xemtv.net/image/QNgTV2.png",Th Quang Ngai
 https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_2.m3u8
-#EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-
 
 
 # Disclaimer: Links were collected on the internet. For legal issues, please contact appropriate media file owners/hosters.
