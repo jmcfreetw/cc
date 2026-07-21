@@ -41,16 +41,7 @@ https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/index.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/index.m3u8
 
-#EXTINF:-1 group-title="Quảng Ngãi" tvg-id="456841" tvg-logo="https://online.xemtv.net/image/QNgTV1.png",duong
-https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
-#EXTINF:-1 group-title="Quảng Ngãi" tvg-id="456841" tvg-logo="https://online.xemtv.net/image/QNgTV2.png",duong
-https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_2.m3u8
-#EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-
-
-
 # Disclaimer: Links were collected on the internet. For legal issues, please contact appropriate media file owners/hosters.
-
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/r6IbnRN.png", THVL1 - TH Vĩnh Long 1
 https://freem3u.xyz/api/live/play.m3u8?vid=25
@@ -63,6 +54,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=220
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/Kmn6jJw.png", THVL5 - TH Vĩnh Long 5
 https://freem3u.xyz/api/live/play.m3u8?vid=91
 
+#EXTINF:-1 tvg-id="quangngai" group-title="Kênh địa phương" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260421/2026042113/phPCrNicoD-QN1-THUMBNAIL-KENHVTVgo-500x281.webp", QNgTV1 - TH Quảng Ngãi
+https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
+#EXTINF:-1 tvg-id="quangngai" group-title="Kênh địa phương" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260421/2026042113/izb5kvSgfS-QN2-THUMBNAIL-KENHVTVgo-500x281.webp", QNgTV1 - TH Quảng Ngãi
+https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_2.m3u8
 
 #EXTINF:-1 tvg-id="quangninh1" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/0sovnmW.png" , QTV1 - TH Quảng Ninh 1
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
@@ -170,9 +165,6 @@ https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 
 #EXTINF:-1 tvg-id="phutho" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/Zx3Tp5Y.png", PTV - TH Phú Thọ
 https://freem3u.xyz/api/live/play.m3u8?vid=77
-
-#EXTINF:-1 tvg-id="quangngai" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/d0MRSdZ.png", QNgTV1 - TH Quảng Ngãi
-https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
 
 #EXTINF:-1 tvg-id="quangtri" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/uT2CbGW.png", QTTV - TH Quảng Trị
 https://freem3u.xyz/api/live/play.m3u8?vid=83
