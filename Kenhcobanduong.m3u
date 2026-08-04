@@ -1,4 +1,8 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml,https://github.com/iptv-pro/iptv-pro.github.io/raw/refs/heads/main/epg/epg.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://epg.catvod.com/epg.xml,http://www.teleguide.info/download/new3/xmltv.xml.gz,http://gabbarit.drm-play.com/epg_1.xml.gz,http://epg.one/epg2.xml,https://epg.pw/xmltv/epg_AU.xml,https://epg.pw/xmltv/epg_ID.xml,https://epg.pw/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_MY.xml,https://epg.pw/xmltv/epg_FR.xml"
+#EXTM3U
+
+#EXTINF:-1 group-title="FUN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj59wGJTIsK3G5kctY5dpDlnBVFkHSb8aXnB_fNWLQqD_nzOlD4n239T2MNDH-wj-LcQC941UfuoHo63fAqhopeu9aM8joUQV98jtZqJ0Zvyt48yYzc4ccU-zREBrkvGiGbuYgUi04v1cPLqV2qNn5xq9mze-eSPe-3kOLY2pBp_AWwuXicpjoz8xI1TLDc/s700/TOM%20&%20JERRY.png",TOM & JERRY
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #PLAYLIST:#PLAYLIST:Coban
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" group-logo="https://i.imgur.com/NB53sZL.png" tvg-logo="https://i.imgur.com/EHjW7mC.png",VTV1 HD
